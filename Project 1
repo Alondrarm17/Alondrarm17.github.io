@@ -3,11 +3,11 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Project 1 - Title</title>
+  <title>Project 1 - Wedding Salon Website Enhancement & Groom Platform Development/title>
 </head>
 <body>
   <header>
-    <h1>Project 1 Title</h1>
+    <h1>Wedding Salon Website Enhancement</h1>
 
     <nav>
       <ul>
@@ -29,15 +29,15 @@
 
     <section>
       <h2>Description</h2>
-      <p>Explain what the project is, what problem it solved, and what you built.</p>
+      <p>This project focuses on improving the existing Wedding Salon website and contributing to the development of a second website designed specifically for grooms. My work involved enhancing the platform to keep users engaged throughout the wedding and honeymoon planning process by supporting features that encourage users to stay connected, such as event access, subscription-related functionality, and improved user flow across the site.</p>
     </section>
 
     <section>
       <h2>Skills Learned</h2>
       <ul>
-        <li>Skill 1</li>
-        <li>Skill 2</li>
-        <li>Skill 3</li>
+        <li>WordPress backend enhancement and maintenance</li>
+        <li>User engagement and subscription flow support</li>
+        <li>Website structure and content organization</li>
       </ul>
     </section>
   </main>
