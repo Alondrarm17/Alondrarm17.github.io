@@ -22,8 +22,9 @@
     <section>
       <h2>Image</h2>
       <figure>
-        <img src="images/project1.png" alt="Screenshot or illustration of Project 1" width="600" />
-        <figcaption>Project 1 screenshot/illustration.</figcaption>
+        <img src="images/weddingsalon.png" alt="Wedding Salon Project 1" width="400" />
+        <img src="images/weddingsalon2.png" alt="Wedding Salon Project 1" width="400" />        
+      <figcaption>Project 1 screenshot/illustration.</figcaption>
       </figure>
     </section>
 
